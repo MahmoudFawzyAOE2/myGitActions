@@ -1,3 +1,2 @@
 # myGitActions
-
-Testing CI/CD 
+Testing CI/CD
